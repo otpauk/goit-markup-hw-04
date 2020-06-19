@@ -416,6 +416,11 @@ img {
   border-radius: 50%;
 }
 
+.team-social .icon {
+  width: 20px;
+  height: 20px;
+}
+
 .team-social .item:not(:last-child) {
   margin-right: 10px;
 }
@@ -616,6 +621,11 @@ img {
   border-radius: 50%;
 
   background-color: #44454e;
+}
+
+.footer-social .icon {
+  width: 20px;
+  height: 20px;
 }
 
 .footer-social .item:not(:last-child) {
